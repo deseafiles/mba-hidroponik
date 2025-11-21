@@ -11,21 +11,31 @@ import MainButton from './MainButton.vue';
 
   <!-- Navbar -->
   <div class="flex flex-wrap justify-center gap-4 text-white text-sm">
-    <MainButton>
-      Beranda
-    </MainButton>
-   <MainButton>
-      Tentang Kami
-   </MainButton>
-    <MainButton>
-      Cara Kami
-    </MainButton>
-    <MainButton>
-      Produk Kami
-    </MainButton>
-    <MainButton>
-      Testimoni
-    </MainButton>
+    <a href="/">
+      <MainButton>
+        Beranda
+      </MainButton>
+    </a>
+    <a href="/tentang-kami">
+      <MainButton>
+        Tentang Kami
+      </MainButton>
+    </a>
+    <a href="/cara-kami">
+      <MainButton>
+        Cara Kami
+      </MainButton>
+    </a>
+    <a href="/produk-kami">
+      <MainButton>
+        Produk Kami
+      </MainButton>
+    </a>
+    <a href="/testimoni">
+      <MainButton>
+        Testimoni
+      </MainButton>
+    </a>
   </div>
 
   <!-- Garis pemisah -->

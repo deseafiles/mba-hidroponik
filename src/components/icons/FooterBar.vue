@@ -16,11 +16,11 @@
       <!-- Menu -->
       <div class="flex flex-col items-center md:items-start">
         <h3 class="font-bold mb-2 text-lg">Menu</h3>
-        <p><a href="#Beranda">Beranda</a></p>
-        <p><a href="#Tanaman">Tanaman Kami</a></p>
-        <p><a href="#Cara">Cara Kami</a></p>
-        <p><a href="#Testimoni">Testimoni</a></p>
-        <p><a href="#Tentang">Tentang Kami</a></p>
+        <p><a href="/">Beranda</a></p>
+        <p><a href="/tanaman-kami">Tanaman Kami</a></p>
+        <p><a href="/cara-kami">Cara Kami</a></p>
+        <p><a href="/testimoni">Testimoni</a></p>
+        <p><a href="/tentang-kami">Tentang Kami</a></p>
       </div>
 
       <!-- Contact -->

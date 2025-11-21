@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "nama": "Selada Air",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "30-40",
+    "Keterangan Singkat": "Rasa segar, renyah, dan tidak pahit."
+  },
+  {
+    "id": 2,
+    "nama": "Kangkung",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "25-30",
+    "Keterangan Singkat": "Lembut renyah, serta sedikit manis."
+  }, 
+  {
+    "id": 3,
+    "nama": "Bayam",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "25-30",
+    "Keterangan Singkat": "Daun lebih empuk, rasa lebih netral dan tidak getir."
+  },
+  {
+    "id": 4,
+    "nama": "Pakcoy",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "35-45",
+    "Keterangan Singkat": "Renyah, sedikit manis, dan tidak getir."
+  },
+  {
+    "id": 5,
+    "nama": "Sawi Hijau",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "30-40",
+    "Keterangan Singkat": "Rasa gurih dan segar di lidah."
+  }, 
+  {
+    "id": 6,
+    "nama": "Seledri",
+    "Jenis Tanaman": "Daun",
+    "Masa Tanam": "40-60",
+    "Keterangan Singkat": "Rasa lebih ringan, aroma kuat tapi tidak menyengat."
+  }
+]
+
