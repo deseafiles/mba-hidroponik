@@ -17,7 +17,7 @@
       <div class="flex flex-col items-center md:items-start">
         <h3 class="font-bold mb-2 text-lg">Menu</h3>
         <p><a href="/">Beranda</a></p>
-        <p><a href="/tanaman-kami">Tanaman Kami</a></p>
+        <p><a href="/produk-kami">Tanaman Kami</a></p>
         <p><a href="/cara-kami">Cara Kami</a></p>
         <p><a href="/testimoni">Testimoni</a></p>
         <p><a href="/tentang-kami">Tentang Kami</a></p>
