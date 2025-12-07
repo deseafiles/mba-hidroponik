@@ -13,14 +13,14 @@ import MainButton from './MainButton.vue';
     </p>
 
     <div>
-      <RouterLink to="/contact">
-        <MainButton class="rounded-full bg-white px-6 py-3 font-semibold text-emerald-700 shadow-md transition-all duration-300 hover:bg-emerald-100 hover:text-green-900">Contact Us</MainButton>
+      <RouterLink to="/tentang-kami">
+        <MainButton class="rounded-full bg-white px-6 py-3 font-semibold text-emerald-700 shadow-md transition-all duration-300 hover:bg-emerald-100 hover:text-green-900">Tentang Kami</MainButton>
       </RouterLink>
     </div>
   </div>
 
   <div class="mt-10 flex justify-center md:mt-0 md:w-1/2">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcZL3q9mVpzgNLi4qBd2R-9MnuK3tckDNdUOUK3miZefgZzOU0vqNSYs&s" alt="Tanaman Hidroponik" class="h-[350px] w-[500px] rounded-3xl border-4 border-white/20 object-cover shadow-2xl" />
+    <img src="../../assets/homepage-1.jpeg" alt="Tanaman Hidroponik" class="h-[350px] w-[500px] rounded-3xl border-4 border-white/20 object-cover shadow-2xl" />
   </div>
 </section>
 </template>

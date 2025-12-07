@@ -10,7 +10,7 @@ import { Icon } from "@iconify/vue";
   <div class="w-full flex flex-wrap justify-center gap-6 py-20">
 
     <a 
-      href="https://maps.app.goo.gl/pURge4C22t1oEkCY9" 
+      href="https://maps.app.goo.gl/yCgH7XfJuYmyTgom7"
       target="_blank" 
       class="bg-green-700 text-white rounded-3xl w-[200px] h-[170px] flex flex-col justify-center items-center shadow hover:bg-green-800 transition"
     >

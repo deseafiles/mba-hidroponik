@@ -4,42 +4,59 @@
     "nama": "Selada Air",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "30-40",
-    "Keterangan Singkat": "Rasa segar, renyah, dan tidak pahit."
+    "Keterangan Singkat": "Rasa segar, renyah, dan tidak pahit.",
+    "Harga": "Rp. 10.000",
+    "Berat Satuan": "250g",
+    "imageUrl": "Selada.jpeg"
   },
   {
     "id": 2,
     "nama": "Kangkung",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "25-30",
-    "Keterangan Singkat": "Lembut renyah, serta sedikit manis."
-  }, 
+    "Keterangan Singkat": "Lembut renyah, serta sedikit manis.",
+    "Harga": "Rp. 6.000",
+    "Berat Satuan": "200g",
+    "imageUrl": "Kangkung.jpg"
+  },
   {
     "id": 3,
     "nama": "Bayam",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "25-30",
-    "Keterangan Singkat": "Daun lebih empuk, rasa lebih netral dan tidak getir."
+    "Keterangan Singkat": "Daun lebih empuk, rasa lebih netral dan tidak getir.",
+    "Harga": "Rp. 7.000",
+    "Berat Satuan": "200g",
+    "imageUrl": "Bayam.jpeg"
   },
   {
     "id": 4,
     "nama": "Pakcoy",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "35-45",
-    "Keterangan Singkat": "Renyah, sedikit manis, dan tidak getir."
+    "Keterangan Singkat": "Renyah, sedikit manis, dan tidak getir.",
+    "Harga": "Rp. 9.000",
+    "Berat Satuan": "300g",
+    "imageUrl": "Sawi.jpeg"
   },
   {
     "id": 5,
-    "nama": "Sawi Hijau",
+    "nama": "Sawi",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "30-40",
-    "Keterangan Singkat": "Rasa gurih dan segar di lidah."
-  }, 
+    "Keterangan Singkat": "Rasa gurih dan segar di lidah.",
+    "Harga": "Rp. 8.000",
+    "Berat Satuan": "300g",
+    "imageUrl": "SawiHijau.jpeg"
+  },
   {
     "id": 6,
     "nama": "Seledri",
     "Jenis Tanaman": "Daun",
     "Masa Tanam": "40-60",
-    "Keterangan Singkat": "Rasa lebih ringan, aroma kuat tapi tidak menyengat."
+    "Keterangan Singkat": "Rasa lebih ringan, aroma kuat tapi tidak menyengat.",
+    "Harga": "Rp. 5.000",
+    "Berat Satuan": "100g",
+    "imageUrl": "Seledri.jpeg"
   }
 ]
-
