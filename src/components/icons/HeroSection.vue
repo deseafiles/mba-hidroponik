@@ -6,7 +6,7 @@ import MainButton from './MainButton.vue';
 <template>
 <section class="flex flex-col items-center justify-between overflow-hidden bg-gradient-to-r from-emerald-600 via-emerald-500 to-emerald-400 px-8 py-12 text-white shadow-lg md:flex-row md:px-20">
   <div class="flex flex-col space-y-6 text-center md:w-1/2 md:text-left">
-    <h3 class="text-4xl leading-tight font-extrabold">Sayuran Segar dari Kebun Hidroponik Kami 🌱</h3>
+    <h3 class="text-4xl leading-tight font-extrabold">Sayuran Segar dari Kebun Hidroponik Kami</h3>
     <p class="text-lg opacity-90">
       Nikmati kesegaran alami langsung dari kebun kami yang ditanam dengan metode
       <span class="font-semibold text-emerald-100">hidroponik modern</span>. Bersih, sehat, dan penuh nutrisi — pilihan tepat untuk hidup lebih baik.

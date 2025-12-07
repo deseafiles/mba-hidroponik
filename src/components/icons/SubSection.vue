@@ -11,7 +11,7 @@
       </h3>
 
 
-      <p class="text-xl leading-relaxed text-justify p-3">
+      <p class="text-xl leading-relaxed text-center p-3">
         <slot name="isi" />
       </p>
 
