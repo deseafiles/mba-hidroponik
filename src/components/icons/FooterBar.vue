@@ -6,10 +6,11 @@
 <footer>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6 bg-green-900 text-white p-10">
 
-    <div class="flex flex-col justify-center items-center font-extrabold text-4xl md:text-5xl leading-none">
-      <span class="block text-center">MBA</span>
-      <span class="block text-center">HIDROPONIK</span>
-    </div>
+  <div class="flex flex-col justify-center items-center md:place-self-center 
+              font-extrabold text-4xl md:text-5xl leading-none">
+    <span class="block text-center">MBA</span>
+    <span class="block text-center">HIDROPONIK</span>
+  </div>
 
     <div class="md:col-span-2 flex flex-col md:flex-row md:justify-end md:gap-14 gap-6">
 

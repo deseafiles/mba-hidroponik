@@ -17,9 +17,7 @@
   </div>
 <BenefitsBox>
   <template #judul>
-    <h1 class="flex items-center justify-center text-white text-xl font-bold py-5">
       Kenapa Memilih Hidroponik Kami?
-    </h1>
   </template>
 
   <template #item>

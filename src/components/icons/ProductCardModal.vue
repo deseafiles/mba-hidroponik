@@ -19,29 +19,32 @@ const emit = defineEmits(["close"])
     @click.self="emit('close')"
   >
     <div class="bg-white rounded-2xl w-full max-w-md p-5 shadow-lg border border-green-700">
-      <h2 class="text-green-800 font-bold text-xl mt-4 my-2">
+      <h2 class="text-green-800 font-bold text-xl mt-4 my-2 text-center sm:text-left">
         {{ data?.nama }}
       </h2>
+
       <img
         :src="getImageUrl()" 
         alt="Gambar Tanaman"
         class="w-full h-48 object-cover rounded-xl"
       />
-      <p class="text-green-700 mt-1 text-base">
+
+      <p class="text-green-700 mt-1 text-base text-center sm:text-left">
         Deskripsi Singkat <span class="font-semibold">{{ data['Keterangan Singkat'] }}</span>
       </p>
      
-      <div class="flex justify-between gap-4 p-2 text-sm">
-        <InfoBox class="w-1/2 py-3 px-4">
+      <div class="flex flex-col sm:flex-row justify-between gap-4 p-2 text-sm">
+        <InfoBox class="w-full sm:w-1/2 py-3 px-4">
           <template #judul>Harga</template>
           <template #isi>{{ data.Harga }}</template>
         </InfoBox>
 
-        <InfoBox class="w-1/2 py-3 px-4">
+        <InfoBox class="w-full sm:w-1/2 py-3 px-4">
           <template #judul>Berat Satuan</template>
           <template #isi>{{ data['Berat Satuan'] }}</template>
         </InfoBox>
       </div>
+
       <button 
         class="mt-5 w-full bg-green-800 text-white py-2 rounded-xl hover:bg-green-800 transition"
         @click="emit('close')"
