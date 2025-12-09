@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+  {
+    "src": "/",
+    "dest": "/"
+  },
+  {
+    "src": "/tentang-kami",
+    "dest": "/"
+  },
+  {
+    "src": "/cara-kami",
+    "dest": "/"
+  },
+  {
+    "src": "/produk-kami",
+    "dest": "/"
+  },
+  {
+    "src": "/testimoni",
+    "dest": "/"
+  }
+  ]
+}
