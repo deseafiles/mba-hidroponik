@@ -22,7 +22,7 @@ import { RouterLink } from 'vue-router';
     </h2>
 
     <div class="mt-2">
-      <a href="https://wa.me/6282250112013">
+      <a href="https://wa.me/xxxxxxxxx">
         <MainButton 
           class="border bg-white text-green-700 
                  hover:bg-green-700 hover:text-white 
