@@ -1,4 +1,9 @@
 <script setup>
+const props = defineProps({
+  key: String, 
+  desc: String,
+  name: String,
+})
 
 </script>
 
@@ -23,6 +28,10 @@
       >
         <slot name="item" />
       </div>
+    <div> 
+      {{desc}}
+      {{name}}
+    </div>
 
     </div>
   </div>

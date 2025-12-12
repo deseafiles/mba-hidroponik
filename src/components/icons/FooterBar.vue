@@ -22,6 +22,7 @@
         <p><a href="/cara-kami">Cara Kami</a></p>
         <p><a href="/testimoni">Testimoni</a></p>
         <p><a href="/tentang-kami">Tentang Kami</a></p>
+        <p><a href="/about-me"></a>About Me</p>
       </div>
 
       <!-- Contact -->

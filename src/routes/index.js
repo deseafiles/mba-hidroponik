@@ -3,6 +3,7 @@ import Homepage from "@/components/Homepage.vue";
 import Product from "@/components/Product.vue";
 import TentangKami from "@/components/TentangKami.vue";
 import Testimoni from "@/components/Testimoni.vue";
+import AboutMe from "@/components/AboutMe.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const routes = [
@@ -30,7 +31,12 @@ const routes = [
     path: '/testimoni',
     name: Testimoni,
     component: Testimoni
-  }
+  },
+  {
+    path: '/about-me',
+    name: AboutMe,
+    component: AboutMe
+  },
 ]
 
 export { routes }

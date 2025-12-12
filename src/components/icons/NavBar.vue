@@ -10,6 +10,7 @@ const navLinks = [
   { name: "Cara Kami", path: "/cara-kami" },
   { name: "Tentang Kami", path: "/tentang-kami" },
   { name: "Testimoni", path: "/testimoni" },
+  {name: "AboutMe", path: '/about-me'}
 ];
 const isActive = (path) => route.path === path;
 </script>
